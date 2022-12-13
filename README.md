@@ -25,3 +25,7 @@ locations on your disk. Running setup.py is only necessary if you want to have a
 memoryVol namespace from other Python scripts, for example if you plan on importing 
 memoryVol as a library. Pros: easy use as a library. Cons: more difficult to upgrade or 
 uninstall.
+
+#references
+
+https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
