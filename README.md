@@ -26,6 +26,6 @@ memoryVol namespace from other Python scripts, for example if you plan on import
 memoryVol as a library. Pros: easy use as a library. Cons: more difficult to upgrade or 
 uninstall.
 
-#references
+# references
 
 https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
