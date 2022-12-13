@@ -9,7 +9,7 @@ friendly to anyone who is using it.
 
 You can get the source code by either downloading a stable release or cloning from github. To do the 
 latter, type: 
-$ git clone https://github.com/AhtisayTheAlpha/memoryVol 
+$ git clone https://github.com/nuwandilsara/memoryVol
 This will create a memoryVol folder that contains the source code and you can run memoryVol 
 directory from there. 
 If you're using the standalone Windows, Linux, or Mac executable, no installation is necessary - just 
